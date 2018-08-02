@@ -125,4 +125,4 @@ Joi doesn't directly support browsers, but you could use [joi-browser](https://g
 
 This project is kindly sponsored by:
 
-[![nearForm logo](https://www.nearform.com/img/nearform-logotype.svg)](https://nearform.com)
+[![nearForm logo](https://www.nearform.com/img/nearform-logotype.svg)](https://nearform.com) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--joi.svg)](https://www.staging.guardrails.io)
